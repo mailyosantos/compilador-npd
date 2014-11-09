@@ -1,4 +1,6 @@
-compilador
+Compilador
 ==========
+Trabalho de Fundamentos Teóricos da Computação
+Engenharia de Computação - 6º período UNIPAC-Lafaiete
 
-Compilador desenvolvido em linguagem C para uma linguagem criada pelo professor
+Compilador desenvolvido para uma linguagem criada pelo professor.
