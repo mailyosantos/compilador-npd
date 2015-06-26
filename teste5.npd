@@ -1,0 +1,6 @@
+inicio 
+leia (a , b, c);
+r := 7;
+d := a + b + c - r;
+escreva (d);
+fim 

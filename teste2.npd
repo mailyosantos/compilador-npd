@@ -1,0 +1,7 @@
+inicio 
+a := 1;
+b := 0;
+c := a - b + 10 - 9;
+-- Este eh um comentario e sera ignorado pelo Scanner
+escreva (c);
+fim 
