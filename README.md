@@ -1,7 +1,11 @@
-Compilador
-==========
-Trabalho de Fundamentos Teóricos da Computação
+Compilador NPD (Nome Para Depois)
+============
+Trabalho desenvolvido para a disciplina Fundamentos Teóricos da Computação no curso de Engenharia de Computação, no 6º período UNIPAC-Lafaiete (2014/2).
 
-Engenharia de Computação - 6º período UNIPAC-Lafaiete (2014/2)
+Componentes:
+[Maily Santos](https://github.com/mailyosantos)
+[Denis Wilson](https://github.com/DenisWP)
+[Rafael Turquetti](https://github.com/rturquetti)
 
-Compilador desenvolvido para uma linguagem criada pelo professor.
+Professor:
+[Vinícius Maciel](https://github.com/trumae)
